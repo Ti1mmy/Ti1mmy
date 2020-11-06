@@ -6,7 +6,7 @@
 - I'm currently learning python in my free time 🐍
 - 🌥 I'm hosting a discord bot on my school's unofficial server using [Discord.py](https://discordpy.readthedocs.io/en/latest/) and Microsoft Azure Cloud Hosting!
 - 🥅 Goals: Learn and experience as many things as possible! 😉
-- 🏎 Currently obsessed with Formula 1!
+- 🏎 Currently obsessed with Formula 1! 😅
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
