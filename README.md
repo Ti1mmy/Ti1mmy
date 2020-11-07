@@ -7,7 +7,7 @@
 - 🌥 I'm hosting a discord bot on my school's unofficial server using [Discord.py](https://discordpy.readthedocs.io/en/latest/) and Microsoft Azure Cloud Hosting!
 - 🥅 Goals: Learn and experience as many things as possible! 😉
 - 🏎 Currently obsessed with Formula 1! 😅
-- 📫 How to reach me **me@ti1m.me**
+- 📫 Email: **mailto:me@ti1m.me**
 
 Experienced in:
 
