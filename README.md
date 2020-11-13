@@ -3,8 +3,8 @@
 ## I'm Currently a Student Enrolled in the International Baccalaureate (IB) Program!
 
 - 🤗 I enjoy everything about computers! I'm an avid PC enthusiast and enjoy programming 🔧
-- 🐍 I'm learning python in my free time 
-- 🌥 I'm hosting a discord bot on my school's unofficial server using [Discord.py](https://discordpy.readthedocs.io/en/latest/) and Microsoft Azure Cloud Hosting!
+- 🐍 I'm learning Python in my free time 
+- 🌥 I'm hosting a Discord bot on my school's unofficial server using [Discord.py](https://discordpy.readthedocs.io/en/latest/) and Microsoft Azure Cloud Hosting!
 - 🥅 Goals: Learn and experience as many things as possible! 😉
 - 🏎 Currently obsessed with Formula 1! 😅
 - 📫 Email: **[me@ti1m.me](mailto:me@ti1m.me)**
