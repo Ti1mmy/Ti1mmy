@@ -18,6 +18,6 @@ Experienced in:
 <a href="https://twitter.com/intent/user?screen_name=Ti1mmyy" target="blank"><img align="center" src="https://img.shields.io/badge/@Ti1mmyy%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="@Ti1mmyy"/></a>
 <a href="https://linkedin.com/in/Timothy-Zheng21" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Timothy Zheng" /></a>
 
-![Ti1mmy's github stats](https://github-readme-stats.ti1mmy.vercel.app/api?username=ti1mmy&count_private=true&theme=tokyonight)                    
+![Ti1mmy's github stats](https://github-readme-stat-ti1mmy.vercel.app/api?username=ti1mmy&count_private=true&theme=tokyonight)                    
 
 
