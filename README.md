@@ -1,6 +1,5 @@
 ### Hi! I'm Timothy 👋
 
-## I'm Currently a Student Enrolled in the International Baccalaureate (IB) Program!
 
 - 🤗 I enjoy everything about computers! I'm an avid PC enthusiast and enjoy programming 🔧
 - 🐍 I'm learning Python in my free time 
