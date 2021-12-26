@@ -4,7 +4,7 @@
 <details align="center">
 <summary align="center">-= Stuff About Me =-</summary>
   
-- 🎓 I'm currently stuyding Computer Science and Finance @ [The University of Waterloo](https://uwaterloo.ca/computing-financial-management/)
+- 🎓 I'm currently studying Computer Science and Finance @ [The University of Waterloo](https://uwaterloo.ca/computing-financial-management/)
 - 🤗 I enjoy everything about computers! I'm an avid PC enthusiast and enjoy programming 🔧
 - 🐍 I'm learning Python in my free time </a>
 - 🥅 Goals: Learn and experience as many things as possible! 😉
