@@ -26,8 +26,8 @@
 <h3 align="center">📊 Github Stats</h3>
 <div align="center">
 <a>
-   <img height="215em" src="https://github-readme-stat-ti1mmy.vercel.app/api/top-langs/?username=ti1mmy&count_private=true&theme=prussian&hide_border=true" alt="Github Languages"/>
-  <img height="215em" src="https://github-readme-stat-ti1mmy.vercel.app/api?username=ti1mmy&count_private=true&theme=prussian&show_icons=true&hide=stars&hide_border=true" alt="Github Stats"/>
+   <img height="185em" src="https://github-readme-stat-ti1mmy.vercel.app/api/top-langs/?username=ti1mmy&count_private=true&theme=prussian&hide_border=true" alt="Github Languages"/>
+  <img height="185em" src="https://github-readme-stat-ti1mmy.vercel.app/api?username=ti1mmy&count_private=true&theme=prussian&show_icons=true&hide=stars&hide_border=true" alt="Github Stats"/>
 </a>
 </div>
 </details>
