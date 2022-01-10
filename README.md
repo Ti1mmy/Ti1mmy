@@ -18,7 +18,7 @@ Experienced in:
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/intent/user?screen_name=Ti1mmyy" target="blank"><img align="center" src="https://img.shields.io/badge/@Ti1mmyy%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="@Ti1mmyy"/></a>
-<a href="https://linkedin.com/in/Timothy-Zheng21" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Timothy Zheng" /></a>
+<a href="https://linkedin.com/in/timothyzheng" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Timothy Zheng" /></a>
   
 <a href="https://devpost.com/Ti1mmy" target="blank"><img align="center" src="https://img.shields.io/badge/Devpost-003E54.svg?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost - Ti1mmy" /></a>
 
