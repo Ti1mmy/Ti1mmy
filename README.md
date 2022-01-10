@@ -26,8 +26,8 @@
 <h3>📊 Github Stats</h3>
 <table valign="center" align="center"><tr>
   <td>
-      <img height="160em" src="https://github-readme-stat-ti1mmy.vercel.app/api?username=ti1mmy&count_private=true&theme=prussian&show_icons=true&hide=stars&hide_border=true" alt="Github Stats"/>
+      <img height="155em" src="https://github-readme-stat-ti1mmy.vercel.app/api?username=ti1mmy&count_private=true&theme=prussian&show_icons=true&hide=stars&hide_border=true" alt="Github Stats"/>
   &nbsp;&nbsp;
-      <img height="160cm" src="https://github-readme-stat-ti1mmy.vercel.app/api/top-langs/?username=ti1mmy&count_private=true&theme=prussian&hide_border=true&exclude_repo=github-readme-stats,GitHubGraduation-2021&layout=compact" alt="Github Languages"/>
+      <img height="155cm" src="https://github-readme-stat-ti1mmy.vercel.app/api/top-langs/?username=ti1mmy&count_private=true&theme=prussian&hide_border=true&exclude_repo=github-readme-stats,GitHubGraduation-2021&layout=compact" alt="Github Languages"/>
     </td></tr></table>
 </details>
