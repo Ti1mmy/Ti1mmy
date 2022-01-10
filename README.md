@@ -23,11 +23,10 @@
 <a href="https://devpost.com/Ti1mmy" target="blank"><img align="center" src="https://img.shields.io/badge/Devpost-003E54.svg?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost - Ti1mmy" /></a>
 
   
-<h3 align="center">📊 Github Stats</h3>
-<div align="center">
-<a>
-   <img height="185em" src="https://github-readme-stat-ti1mmy.vercel.app/api/top-langs/?username=ti1mmy&count_private=true&theme=prussian&hide_border=true" alt="Github Languages"/>
-  <img height="185em" src="https://github-readme-stat-ti1mmy.vercel.app/api?username=ti1mmy&count_private=true&theme=prussian&show_icons=true&hide=stars&hide_border=true" alt="Github Stats"/>
-</a>
-</div>
+<h3>📊 Github Stats</h3>
+<table valign="center" align="center"><tr>
+  <td valign="center"> <img height="175em" src="https://github-readme-stat-ti1mmy.vercel.app/api?username=ti1mmy&count_private=true&theme=prussian&show_icons=true&hide=stars&hide_border=true" alt="Github Stats"/>
+  &nbsp;&nbsp;&nbsp;
+      <img height="250em" src="https://github-readme-stat-ti1mmy.vercel.app/api/top-langs/?username=ti1mmy&count_private=true&theme=prussian&hide_border=true" alt="Github Languages"/>
+    </td></tr></table>
 </details>
