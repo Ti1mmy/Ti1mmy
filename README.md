@@ -22,5 +22,6 @@ Experienced in:
   
 <a href="https://devpost.com/Ti1mmy" target="blank"><img align="center" src="https://img.shields.io/badge/Devpost-003E54.svg?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost - Ti1mmy" /></a>
 
-![Ti1mmy's github stats](https://github-readme-stat-ti1mmy.vercel.app/api?username=ti1mmy&count_private=true&theme=tokyonight)                    
+![Ti1mmy's github stats](https://github-readme-stat-ti1mmy.vercel.app/api?username=ti1mmy&count_private=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ti1mmy&theme=prussian&hide_border=true)
 </details>
