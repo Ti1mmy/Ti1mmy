@@ -45,7 +45,7 @@
   
 <h3>📊 Github Stats</h3>
 
-![](https://komarev.com/ghpvc/?username=Ti1mmy&color=87ceeb&style=flat-square&label=VIEWS)
+![](https://komarev.com/ghpvc/?username=Ti1mmy&color=87ceeb&style=flat-square&label=People+who+have+also+seen+this)
 
 <table valign="center" align="center"><tr>
   <td>
