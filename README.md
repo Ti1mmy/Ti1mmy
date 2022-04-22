@@ -2,7 +2,7 @@
 
 ***
 <details align="center">
-<summary align="center"><b>-=[ Stuff About Me ]=-</b></summary>
+<summary align="center"><b>☰ Stuff About Me</b></summary>
   
 - 🎓 I'm currently studying Computer Science and Finance @ **The University of Waterloo** as a [CFM](https://uwaterloo.ca/computing-financial-management/) student!
 - 🤗 I enjoy everything about computers! I'm an avid PC enthusiast and enjoy programming 🔧
@@ -56,3 +56,4 @@
     </td></tr></table>
 
 </details>
+<h5 align="center">_____________________________</h5>
